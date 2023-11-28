@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/GH-Demo/1d8c8f85-7f71-4a6d-8fc0-606aec15ad92/6c75d5db-761e-432b-a9f8-d25d8d9bc34a/_apis/work/boardbadge/a5b293e2-1163-4857-b311-41441a413899)](https://dev.azure.com/GH-Demo/1d8c8f85-7f71-4a6d-8fc0-606aec15ad92/_boards/board/t/6c75d5db-761e-432b-a9f8-d25d8d9bc34a/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
